@@ -1,1 +1,1 @@
- iNeuron ML Assignments
+ iNeuron  Python & Machine Learning Assignments.
